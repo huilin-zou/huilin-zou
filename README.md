@@ -1,1 +1,1 @@
-# huilin-zou
+[![huilin-zou's GitHub stats](https://github-readme-stats.vercel.app/api?username=huilin-zou&show_icons=true&text_color=000000&title_color=FFFFFF&bg_color=DEG,b3cdc9,abc3a1&icon_color=FFFFFF)](https://github.com/huilin-zou/github-readme-stats)
